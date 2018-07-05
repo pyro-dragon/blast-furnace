@@ -1,0 +1,22 @@
+{
+  "name": "blast-furnace",
+  "version": "1.0.0",
+  "description": "An Angular-Material based web application framework.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pyro-dragon/blast-furnace.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pyro-dragon/blast-furnace/issues"
+  },
+  "homepage": "https://github.com/pyro-dragon/blast-furnace#readme",
+  "dependencies": {
+    "@angular/cdk": "^6.3.2"
+  }
+}
