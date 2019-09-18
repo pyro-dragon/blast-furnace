@@ -1,26 +1,27 @@
-# Blast-Furnace
-An Angular-Material based web application framework. 
+# BlastFurnace
 
-## Aims
-This project's aim is to develop a reusable framework for the development of next-generation web applications. It should replace Homesite/Coke Oven as a base for my application development. It should be easy to follow in terms of architecture, code layout and functional change. It should also include the technology stack and toolchain required to deliver fully releasable code. 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
-## Technology stack
-Blast Furnace will consist of the following technologies at the start: 
-* Angular 6
-* Angular CLI
-* Angular Material
-* Web Pack
-* Sass
+## Development server
 
-### Supported technologies
-While not directly included in the base technology stack, Blast Furnace will be developed with the following technologies in mind: 
-* Electron
-* MongoDB
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-This will mostly be done by writing Node.js companion frmeworks to link in to Blast Furance. 
+## Code scaffolding
 
-## First projects
-The first project to use Blast Furance will most likely be dragonscancode.com. Followed either by TagUrImg or client sites depending on demand. 
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Migration
-There are currently no plans on the migration of Homesite/Coke Oven sites to Blast Furnace. Due to the difference in tehcnology and architecture they will most likely have to be rewritten. 
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
